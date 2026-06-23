@@ -1,0 +1,2 @@
+[console_scripts]
+position_node = intensity_estimator.position_calculator:main

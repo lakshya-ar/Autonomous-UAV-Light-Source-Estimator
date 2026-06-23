@@ -1,0 +1,36 @@
+/Users/lakshya/miniconda3/envs/ros2/lib/python3.11/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+creating ../../build/intensity_estimator/intensity_estimator.egg-info
+writing ../../build/intensity_estimator/intensity_estimator.egg-info/PKG-INFO
+writing dependency_links to ../../build/intensity_estimator/intensity_estimator.egg-info/dependency_links.txt
+writing entry points to ../../build/intensity_estimator/intensity_estimator.egg-info/entry_points.txt
+writing requirements to ../../build/intensity_estimator/intensity_estimator.egg-info/requires.txt
+writing top-level names to ../../build/intensity_estimator/intensity_estimator.egg-info/top_level.txt
+writing manifest file '../../build/intensity_estimator/intensity_estimator.egg-info/SOURCES.txt'
+reading manifest file '../../build/intensity_estimator/intensity_estimator.egg-info/SOURCES.txt'
+writing manifest file '../../build/intensity_estimator/intensity_estimator.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator
+copying intensity_estimator/drone_sensor.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator
+copying intensity_estimator/position_calculator.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator
+copying intensity_estimator/__init__.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator
+running install
+running install_lib
+creating /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator
+copying /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator/drone_sensor.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator
+copying /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator/position_calculator.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator
+copying /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator/__init__.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator
+byte-compiling /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator/drone_sensor.py to drone_sensor.cpython-311.pyc
+byte-compiling /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator/position_calculator.py to position_calculator.cpython-311.pyc
+byte-compiling /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator/__init__.py to __init__.cpython-311.pyc
+running install_data
+creating /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/share/ament_index/resource_index/packages
+copying resource/intensity_estimator -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/share/ament_index/resource_index/packages
+copying package.xml -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/share/intensity_estimator
+running install_egg_info
+Copying ../../build/intensity_estimator/intensity_estimator.egg-info to /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator-0.0.0-py3.11.egg-info
+running install_scripts
+Installing position_node script to /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/intensity_estimator
+writing list of installed files to '/Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/install.log'

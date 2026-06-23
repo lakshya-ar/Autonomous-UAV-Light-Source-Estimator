@@ -1,0 +1,38 @@
+[0.346s] Invoking command in '/Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/src/intensity_estimator': CONDA_PROMPT_MODIFIER=(ros2) PYTHONPATH=/Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/prefix_override:/Users/lakshya/miniconda3/envs/ros2/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=2 _=/usr/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/lakshya/miniconda3/envs/ros2/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/intensity_estimator build --build-base /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build install --record /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/install.log --single-version-externally-managed install_data
+[0.432s] /Users/lakshya/miniconda3/envs/ros2/lib/python3.11/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.432s]   warnings.warn(msg)
+[0.474s] running egg_info
+[0.481s] creating ../../build/intensity_estimator/intensity_estimator.egg-info
+[0.481s] writing ../../build/intensity_estimator/intensity_estimator.egg-info/PKG-INFO
+[0.481s] writing dependency_links to ../../build/intensity_estimator/intensity_estimator.egg-info/dependency_links.txt
+[0.481s] writing entry points to ../../build/intensity_estimator/intensity_estimator.egg-info/entry_points.txt
+[0.481s] writing requirements to ../../build/intensity_estimator/intensity_estimator.egg-info/requires.txt
+[0.482s] writing top-level names to ../../build/intensity_estimator/intensity_estimator.egg-info/top_level.txt
+[0.482s] writing manifest file '../../build/intensity_estimator/intensity_estimator.egg-info/SOURCES.txt'
+[0.497s] reading manifest file '../../build/intensity_estimator/intensity_estimator.egg-info/SOURCES.txt'
+[0.497s] writing manifest file '../../build/intensity_estimator/intensity_estimator.egg-info/SOURCES.txt'
+[0.497s] running build
+[0.497s] running build_py
+[0.497s] creating /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator
+[0.497s] copying intensity_estimator/drone_sensor.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator
+[0.498s] copying intensity_estimator/position_calculator.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator
+[0.498s] copying intensity_estimator/__init__.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator
+[0.498s] running install
+[0.500s] running install_lib
+[0.507s] creating /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator
+[0.507s] copying /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator/drone_sensor.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator
+[0.507s] copying /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator/position_calculator.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator
+[0.507s] copying /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build/lib/intensity_estimator/__init__.py -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator
+[0.508s] byte-compiling /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator/drone_sensor.py to drone_sensor.cpython-311.pyc
+[0.508s] byte-compiling /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator/position_calculator.py to position_calculator.cpython-311.pyc
+[0.508s] byte-compiling /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator/__init__.py to __init__.cpython-311.pyc
+[0.509s] running install_data
+[0.509s] creating /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/share/ament_index/resource_index/packages
+[0.509s] copying resource/intensity_estimator -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/share/ament_index/resource_index/packages
+[0.509s] copying package.xml -> /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/share/intensity_estimator
+[0.509s] running install_egg_info
+[0.517s] Copying ../../build/intensity_estimator/intensity_estimator.egg-info to /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages/intensity_estimator-0.0.0-py3.11.egg-info
+[0.518s] running install_scripts
+[0.532s] Installing position_node script to /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/intensity_estimator
+[0.533s] writing list of installed files to '/Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/install.log'
+[0.545s] Invoked command in '/Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/src/intensity_estimator' returned '0': CONDA_PROMPT_MODIFIER=(ros2) PYTHONPATH=/Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/prefix_override:/Users/lakshya/miniconda3/envs/ros2/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/install/intensity_estimator/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=2 _=/usr/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/lakshya/miniconda3/envs/ros2/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/intensity_estimator build --build-base /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/build install --record /Users/lakshya/Library/CloudStorage/OneDrive-IITKanpur/IITK/ROS/build/intensity_estimator/install.log --single-version-externally-managed install_data
