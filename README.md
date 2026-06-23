@@ -11,8 +11,6 @@ title: 'Autonomous UAV Light Source Estimator '
 
 An autonomous localization framework designed for Unmanned Aerial Vehicles (UAVs). This ROS 2 package continuously processes intensity data from four distributed ground or structural sensors to estimate the exact 3D coordinates of a target light source using multilateration. It seamlessly translates raw sensor streams into real-time target waypoints for automated flight navigation.
 
-**Developed for the AE Winter Project at the Indian Institute of Technology Kanpur.**
-
 ---
 
 ## Table of Contents
